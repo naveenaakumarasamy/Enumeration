@@ -40,19 +40,21 @@ intext: This operator allows you to search for pages that contain specific text 
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
-![image](https://github.com/Yamunaasri/Enumeration/assets/115707860/f65aba0e-80f8-4e44-9556-12e4132e4666)
+![image](https://github.com/naveenaakumarasamy/Enumeration/assets/113497406/7d6cf517-c0d0-41ce-ae24-34e92bcd6b01)
+
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
-![image](https://github.com/Yamunaasri/Enumeration/assets/115707860/8318f883-acdd-4fd9-894b-8e4ac4eaa944)
+![image](https://github.com/naveenaakumarasamy/Enumeration/assets/113497406/dedbedc5-1484-4c8c-abec-91c8b51c9a0a)
+
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
-![image](https://github.com/Yamunaasri/Enumeration/assets/115707860/a48a22ab-16d6-4383-b0d7-504217cd5fe9)
+![image](https://github.com/naveenaakumarasamy/Enumeration/assets/113497406/c318e9a6-2384-4b8b-9633-ef8bbef60dfa)
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
- ![image](https://github.com/Yamunaasri/Enumeration/assets/115707860/ad91e2fa-8fc0-4b65-9219-ae8eea0697ad)
+![image](https://github.com/naveenaakumarasamy/Enumeration/assets/113497406/bfa1cfba-43ea-4d8e-9d32-752ca60a2fa6)
 
 ## DNS Enumeration:
 
